@@ -10,8 +10,7 @@ Welcome to the public repository for the PhilRice Training Analytics. This repos
 
 
 For the complete source code and development details, please refer to the private repository (access granted to authorized users only).
-
-// For access to the complete source code and development details, please refer to the private repository:
+<!-- For access to the complete source code and development details, please refer to the private repository: -->
 [PhilRice Training Analytics - Private Source Code](jaynevernice.github.io/reactfolio)
 
 ## Getting Started
